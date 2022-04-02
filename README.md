@@ -1,1 +1,1 @@
-# Project-Management-Service
+This project is some kind of a system or service to manage projects an developers. This project is not finished yet, but here for begin, I created here some endpoints, class models, database and connection to the database. I used SQLite for creating database, and Python(with it's modern framework FastApi) for creating this API.
